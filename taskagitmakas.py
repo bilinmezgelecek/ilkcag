@@ -1,4 +1,5 @@
 ''' bu kendime not '''
+''' not2 bunu yeni ekledim 14/05/2020'''
 import random
 
 
